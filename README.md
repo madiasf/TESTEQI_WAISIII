@@ -1,1 +1,1 @@
-# TESTEQI_WAISIII
+# Teste de QI baseado no WAIS III
